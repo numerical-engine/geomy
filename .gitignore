@@ -1,2 +1,2 @@
-*.vtk
-*.stl
+*.npy
+__pycache__
